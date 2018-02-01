@@ -122,16 +122,16 @@ Jun 2013
 
 
 ### Volunteering
-:   I've volunteered as a STEM instructor for DIVAS (Digital Media & Visual Arts) for Social Justice and am the program manager for the New York Asian Language Exchange and Social Network (language instruction and culture non-profit). I'm also a co-organizer of Write / Speak / Code - Co-organizer, that aims to increase the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development.
+>   I've volunteered as a STEM instructor for DIVAS (Digital Media & Visual Arts) for Social Justice and am the program manager for the New York Asian Language Exchange and Social Network (language instruction and culture non-profit). I'm also a co-organizer of Write / Speak / Code - Co-organizer, that aims to increase the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development.
  
 
 ### Speaking Engagements
-:   I've demoed applications at General Assembly, the Museum of the Moving Image, the Robinhood Foundation, and Sales Force. I've  also delivered tech talks at meetups, Laguardia Community College, hackathons; and acted as a mentor at youth workshops and hackathons.
+>   I've demoed applications at General Assembly, the Museum of the Moving Image, the Robinhood Foundation, and Sales Force. I've  also delivered tech talks at meetups, Laguardia Community College, hackathons; and acted as a mentor at youth workshops and hackathons.
 
 
 
 ### Affliations
-:   I'm an active member of WomenWhoCode, Black Software Engineers of NYC, WomenTech Makers, GothamSASS, Ladies Storm Hackathons, TechLadies, and Hacker Hours.
+>   I'm an active member of WomenWhoCode, Black Software Engineers of NYC, WomenTech Makers, GothamSASS, Ladies Storm Hackathons, TechLadies, and Hacker Hours.
 
 ----
 
