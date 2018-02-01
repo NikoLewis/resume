@@ -41,7 +41,7 @@
 ## EXPERIENCE
 
 
-Jun 2017 - Sep 2017
+Jun 2017 - Sep 2017 •
    *Software Engineer Apprentice at [Dev.to](https://dev.to/)*
     (New York, NY)
 
@@ -50,7 +50,7 @@ Jun 2017 - Sep 2017
     - Took ownership of managing products, encouraged user engagement, and contributed
       technical writing.
 
-Jul 2016 - Jun 2017
+Jul 2016 - Jun 2017 •
    *Access Code Software Engineer Fellow at [C4Q](https://www.c4q.nyc/accesscode/)*
     (New York, NY)
 
@@ -63,15 +63,15 @@ Jul 2016 - Jun 2017
 ## OTHER EXPERIENCE
 
 
-Dec 2014 - Feb 2016
+Dec 2014 - Feb 2016 •
    *Global Technology Infrastructure Project Coordinator at JPMorgan Chase & Co.*
     (New York, NY)
 
-Aug 2014 - Mar 2015
+Aug 2014 - Mar 2015 •
    *Technical Support Analyst at New York College of Podiatric Medicine*
     (New York, NY)
     
-Jan 2016 - Jun 2017
+Jan 2016 - Jun 2017 •
    *Per Scholas at Teaching Assistant & Technician Team Lead (Contract)*
     (New York, NY)
 
