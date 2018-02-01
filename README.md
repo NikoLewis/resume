@@ -108,65 +108,30 @@ Jun 2017
    
     
 Jun 2013
-:    *AAS Health Sciences: Healthcare Administration specialization at Queensborough Community College*
+:    *AAS Health Sciences - Healthcare Administration specialization at Queensborough Community College*
     (New York, NY)
+    Apr 2015
+
+    - Was a peer mentor, on Deans Honors List, and a Honor's Scholar every semester.
+    - Presented with Commitment to Service award from scholarship office and cohort.
 
 
 ---
 
-Activities and interests
+## TECH COMMUNITY Involvement
 
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+### Volunteering
+:   I've volunteered as a STEM instructor for DIVAS (Digital Media & Visual Arts) for Social Justice and am the program manager for the New York Asian Language Exchange and Social Network (language instruction and culture non-profit). I'm also a co-organizer of Write / Speak / Code - Co-organizer, that aims to increase the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development.
+ 
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+### Speaking Engagements
+:   I've demoed applications at General Assembly, the Museum of the Moving Image, the Robinhood Foundation, and Sales Force. I've  also delivered tech talks at meetups, Laguardia Community College, hackathons; and acted as a mentor at youth workshops and hackathons.
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+
+
+### Affliations
+:   I'm an active member of WomenWhoCode, Black Software Engineers of NYC, WomenTech Makers, GothamSASS, Ladies Storm Hackathons, TechLadies, and Hacker Hours.
 
 ----
 
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
