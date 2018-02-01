@@ -21,20 +21,20 @@
 
    *Culture Vault • [Culture Vault Demo](http://culture-vault.herokuapp.com/)*
   
-    - Delivered a social media platform MVP that crowdsourced storytelling\
-      to provide context about how food, culture, and identity overlap.\ 
-    - Built Category Overview page, Product page, database, and server using\
-      Express, Sequelize, Sequelize-CLI,PostgresSQL, React, and Redux.\ 
-    - Developed an Interactive Media feature using JavaScript, React, Redux,\
-      and Spotify API.\
-    - Showcased to represent Coalition for Queens commitment to civic tech to Tech\
+    - Delivered a social media platform MVP that crowdsourced storytelling
+      to provide context about how food, culture, and identity overlap.
+    - Built Category Overview page, Product page, database, and server using
+      Express, Sequelize, Sequelize-CLI,PostgresSQL, React, and Redux. 
+    - Developed an Interactive Media feature using JavaScript, React, Redux,
+      and Spotify API.
+    - Showcased to represent Coalition for Queens commitment to civic tech to Tech
       Bash, the Museum of the Moving Image, Sales Force, and the Robin Hood Foundation.
 
 *WealthKey • AARP Holiday Hackathon*
   
-    - Won award for best application use of Alphawolf Sandbox API.\ 
-    - Developed B2B portal application that automated  financial planning for individuals 50+.\
-    - Acting as product & project manager, lead team of 7 developers using UI, UX, React, Redux,\
+    - Won award for best application use of Alphawolf Sandbox API.
+    - Developed B2B portal application that automated  financial planning for individuals 50+.
+    - Acting as product & project manager, lead team of 7 developers using UI, UX, React, Redux,
       Javascript, PostgresSQL, Sequelize, Material Design, Node.js, Express, Sketch.
     
 ---
@@ -45,19 +45,19 @@ Jun 2017 - Sep 2017
    *Software Engineer Apprentice at [Dev.to](https://dev.to/)*
     (New York, NY)
 
-    - Learned about SDLC and contributed to maintaining  growing message board platform\
-      and programmer community.\ 
-    - Took ownership of managing products, encouraged user engagement, and contributed\
+    - Learned about SDLC and contributed to maintaining  growing message board platform
+      and programmer community.
+    - Took ownership of managing products, encouraged user engagement, and contributed
       technical writing.
 
 Jul 2016 - Jun 2017
    *Access Code Software Engineer Fellow at [C4Q](https://www.c4q.nyc/accesscode/)*
     (New York, NY)
 
-    - Selected for a highly competitive Google-partnered fellowship-- with 4% acceptance\
-      rate out of 1,222 applicants.\
-    - Completed intensive 11-months of  70+hours a week hands-on project based product,\
-      development, and computer science fellowship.\
+    - Selected for a highly competitive Google-partnered fellowship-- with 4% acceptance
+      rate out of 1,222 applicants.
+    - Completed intensive 11-months of  70+hours a week hands-on project based product,
+      development, and computer science fellowship.
 
 ---
 ## OTHER EXPERIENCE
@@ -83,28 +83,28 @@ Jan 2018
 :   *Codebridge Program at [Per Scholas](https://perscholas.org/apply/codebridge#overview)*
     (New York, NY).
 
-    - Received full scholarship to 5 month software engineering immersive program.\
+    - Received full scholarship to 5 month software engineering immersive program.
  
 
 Nov 2017
 :   *Accelerated Prep Program at [Flatiron School]((https://flatironschool.com/programs/accelerated-bootcamp-prep/)*
     (New York, NY).
 
-    - Accelerated course covering programming fundamentals with added structure and depth, to prepare for today's most\
-      selective bootcamps. Completed 15+ hours of live lectures and dworkshops over the two week course.
+    - Accelerated course covering programming fundamentals with added structure and depth, to prepare for today's most
+      selective bootcamps. Completed 15+ hours of live lectures and workshops over the two week course.
       
 
 Jun 2017
 :    *Access Code at [C4Q](https://www.c4q.nyc/accesscode/)*
     (New York, NY)
 
-    - Intensive 11-month 70+ hours a week hands-on project based product, development and computer science fellowship.\
+    - Intensive 11-month 70+ hours a week hands-on project based product, development and computer science fellowship.
     
  Apr 2015
 :    *Technology Project Management Certificate at [CUNY School of Professional Studies](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=94&returnto=90)*
     (New York, NY)
 
-    - Two month scenario based training covering: agile project management, critical chain management, and six sigma approach to product\         development.
+    - Two month scenario based training covering: agile project management, critical chain management, and six sigma approach to product         development.
    
     
 Jun 2013
